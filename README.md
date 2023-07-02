@@ -4,7 +4,7 @@
 
 ## 📫 Contatos / Social
 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](malito:dalvansibra@outlook.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalvan-siebra/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/siebralvan)
 
@@ -21,4 +21,8 @@
 <br/>
 <br/>
 
-![Dalvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalvansiebra&show_icons=true&theme=dracula)
+<div>
+    <a href="https://github.com/dalvansiebra">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dalvansiebra&show_icons=true&theme=dracula">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalvansiebra&layout=compact&theme=dracula">
+</div>
